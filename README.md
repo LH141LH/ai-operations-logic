@@ -38,7 +38,7 @@ Refinement: Iterative feedback loop based on edge cases.
 
 3. Tool Stack
 
-LLMs: Claude 3.5 Sonnet (via Cursor), GPT-4o.
+LLMs: Claude 3.5 Sonnet (via Cursor), GPT-5.1, Gemini 3.0.
 
 IDE: Cursor (AI-first code editing).
 
